@@ -47,7 +47,7 @@ module.exports = {
         dataset: 'production',
         // a token with read permissions is required
         // if you have a private dataset
-        token: 'skLuXyFwLnvlV7RGW74wtPyoweRTy9JFfEdJwEXc8BittXTFmC4W27v03c0g2S6i9hp6XoBFC9a9tgoL7ummcYfJ8e7Mh9YDMdPjk3OQTLBPBfPFPQWO9nU2DOdyjoiaJMjbGq632BoVe6ShK3ZfR4ErZDXcoRbQk97athYuh6Xjd4HHzsWS',//process.env.MY_SANITY_TOKEN,
+        token: 'sk2x6WqHX41SlXzN3mk1jbQakegQwG4sFH8ElV9hC4cBZ2DFeMKzb0G9qaSuLb9s25ZClfkp49hXtvgVyakkGsTD8Iss2beO00dIDiwr0QO3QeHVilNYfKrFWBe9LbrT98i0r32AgMsGVcyoW2yrDHD0cak7uuD3nbMTMlPG7uBMdUW0b7al',//process.env.MY_SANITY_TOKEN,
         watchMode: true,
         overlayDrafts: true
       },
